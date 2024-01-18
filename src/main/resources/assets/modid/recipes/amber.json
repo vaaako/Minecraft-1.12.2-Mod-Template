@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{ "item": "modid:amber_block" }
+	],
+
+	"result": {
+		"item": "modid:amber",
+		"count": 9
+	}
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modbase",
+  "name": "Modbase",
+  "description": "This is just a base",
+  "version": "0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["names", "here"],
+  "credits": "Name here too",
+  "logoFile": "pack.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
